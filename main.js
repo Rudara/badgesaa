@@ -1,1 +1,1 @@
-console.log("I dont know")
+console.log("getting new badge")
