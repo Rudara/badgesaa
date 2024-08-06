@@ -1,1 +1,1 @@
-console.log("Hello!")
+const me = "me the best"
