@@ -1,1 +1,1 @@
-console.log("I dont know")
+const me = "I am good"
